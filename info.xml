@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info version="1.1">
+  <general>
+    <createDate>2020-06-19T11:30:19</createDate>
+    <changeDate>2025-03-07T08:19:14</changeDate>
+    <schema>iso19139</schema>
+    <isTemplate>n</isTemplate>
+    <localId>379</localId>
+    <format>full</format>
+    <rating>0</rating>
+    <popularity>896</popularity>
+    <uuid>Galamsey Monitoring - V1</uuid>
+    <siteId>0a2c5159-5d9b-47b4-95bd-a9ddea5a0d52</siteId>
+    <siteName>SERVIR WEST AFRICA CATALOGUE</siteName>
+  </general>
+  <categories>
+    <category name="datasets" />
+  </categories>
+  <privileges>
+    <group name="all">
+      <operation name="view" />
+      <operation name="dynamic" />
+    </group>
+  </privileges>
+  <public>
+    <file name="mining footprints.jpg" changeDate="2023-01-04T12:26:55" />
+    <file name="no-thumbnail.png" changeDate="2022-12-21T17:59:21" />
+  </public>
+  <private />
+</info>
+
